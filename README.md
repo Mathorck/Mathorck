@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hey 👋 I'm mathorck !
 
 ###
 
-<p align="left">My name is Mathorck and I'm a Student in devloppement, from Swiss</p>
+<p align="left">I'm a Student in computer science, from Swiss</p>
 
 ###
 
@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
