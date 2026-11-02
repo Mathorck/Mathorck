@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Student in computer science, from Swiss</p>
+<p align="left">I'm a Student in Computer Science, from Switzerland</p>
 
 ###
 
